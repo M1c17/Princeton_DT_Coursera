@@ -1,3 +1,5 @@
+package Percolation;
+
 /******************************************************************************
  *  Compilation:  javac Accumulator.java
  *  Execution:    java Accumulator < input.txt
